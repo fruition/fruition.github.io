@@ -15,4 +15,4 @@ Fruition leverages Drupal 8/9 for complex builds including those in health care.
 Fruition's primary work is growing other companies platforms. However, Fruition has made direct and coinvestments in health care companies including Dental Service Oganizations ("DSO") effectively operating as a private equity arm for nearly 20 years.
 
 ### Support or Contact
-Interested in working with Fruition? Check out our [consumer facing site](https://fruition.net) 
+Interested in working with Fruition? Check out our [digital marketing information site](https://fruition.net) 
