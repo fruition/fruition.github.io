@@ -1,6 +1,6 @@
 ## Fruition's Github Launchpad
 
-Fruition, started in 2003, is an active builder of complex full stack technology solutions while growing those solutions through digital marketing programs. 
+Fruition, started in 2003, is an active builder of complex full stack technology solutions while growing the built website solutions through digital marketing programs including SEO, paid search managment and social media marketing. 
 
 ### Fruition's Resources
 If you are interested in working with Fruition check out our [start page](https://fruition.net/start) to see how we roll. 
